@@ -10,7 +10,7 @@ from PIL import Image
 from image_functions import initialize_chat, new_question_to_chat
 
 with st.sidebar:
-    st.title("🎉 Image Chatbot Extravaganza! 💬")
+    st.title("🎉 Image Chatbot! 💬")
     st.markdown('''
     - Upload images, get enchanting descriptions, and insightful answers.
     - It is used gpt-4 with vision of Azure OpenAI
@@ -18,7 +18,7 @@ with st.sidebar:
     - Ask something about the image and then continue chatting if you feel so
     - ⏳ Please be patient; complex questions may take a moment to answer
     - 🚀 Set Sail on the Chatbot Adventure
-    - [Azure Vision](https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/gpt-with-vision)
+    - [GPT-4 Vision - Azure](https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/gpt-with-vision)
     - [Streamlit](https://streamlit.io/)'''
                 )
 
