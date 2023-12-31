@@ -1,4 +1,4 @@
-## Image Chatbot! 💬🤖🖼️
+## Simple Image Chatbot! 💬🤖🖼️
 
 Welcome to the Image Chatbot Extravaganza! This delightful chatbot, powered by GPT-4 and Azure OpenAI's vision, is designed to provide enchanting descriptions and insightful answers for your uploaded images. 🚀
 
